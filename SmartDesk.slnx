@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="SmartDesk.Android/SmartDesk.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="SmartDesk.Browser/SmartDesk.Browser.csproj" />
+  <Project Path="SmartDesk.Desktop/SmartDesk.Desktop.csproj" />
+  <Project Path="SmartDesk/SmartDesk.csproj" />
+</Solution>
